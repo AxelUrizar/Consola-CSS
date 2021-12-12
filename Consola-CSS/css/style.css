@@ -257,6 +257,7 @@
                 .VLine{
                     border: 1px solid  rgb(160, 160, 160);
                     height: 50%;
+                    background-color: rgb(160, 160, 160);
                 }
 
             .d-midrow{
@@ -285,8 +286,8 @@
 
                 .d-center{
                     background-color: rgb(68, 67, 67);
-                    height: 23px; /*CUIDADO*/   
-                    width: 23px;
+                    height: 22px; /*CUIDADO*/   
+                    width: 22px;
                     border-radius: 50%;
 
                     z-index: 1;
@@ -311,6 +312,7 @@
                     .HLine{
                         border: 1px solid  rgb(160, 160, 160);
                         width: 50%;
+                        background-color: rgb(160, 160, 160);
                     }
 
         .power{
