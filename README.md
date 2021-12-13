@@ -4,24 +4,21 @@
 
 En este proyecto se demandaba la creación de una videoconsola usando tanto HTML5 como CSS. Decidí tomar como referencia a la consola de Nintendo DSI Lite.
 
-![screenshot](https://github.com/AxelUrizar/Consola-CSS/blob/main/Consola-CSS/img/dsi.jpg)      ![screenshot](https://github.com/AxelUrizar/Consola-CSS/blob/main/Consola-CSS/img/dsi%20lite%20entera.JPG)
+![screenshot](https://github.com/AxelUrizar/Consola-CSS/blob/main/Consola-CSS/img/dsi.jpg)      ![screenshot](https://github.com/AxelUrizar/Consola-CSS/blob/main/Consola-CSS/img/dsi%20entera.JPG)
 
 A la hora de enfocar este proyecto decidí partir la consola en tres partes, cada una a su vez dividida en otras tres franjas para poder trabajar con mayor libertad:
 
-	Foto 3 Partes
+![screenshot](https://github.com/AxelUrizar/Consola-CSS/blob/main/Consola-CSS/img/dsi%20partida%203.jpg)
 
 
 La primera de estas era la superior dividida en tres para así poder trabajar los altavoces laterales a la vez que centraba la pantalla:
 
-	Foto parte superior
-	Foto parte superior partida en 3
+![screenshot](https://github.com/AxelUrizar/Consola-CSS/blob/main/Consola-CSS/img/Superior.JPG)      ![screenshot](https://github.com/AxelUrizar/Consola-CSS/blob/main/Consola-CSS/img/Superiorpartida.jpg)
 
 La segunda ha sido el margen intermedio con las luces de encendido a un lado, la camara en medio y un espacio en blanco a su lado derecho:
 
-	Foto parte media
-	Foto parte media partida en 3
+![screenshot](https://github.com/AxelUrizar/Consola-CSS/blob/main/Consola-CSS/img/medio.JPG)      ![screenshot](https://github.com/AxelUrizar/Consola-CSS/blob/main/Consola-CSS/img/mediopartido.jpg)
 
 En su tercera instancia tambien partida en tres cajas he trabajado en los botones además de su cruceta centrando una vez mas la pantalla inferior.
 
-	Foto parte inferior
-	Foto parte inferior partida en 3
+![screenshot](https://github.com/AxelUrizar/Consola-CSS/blob/main/Consola-CSS/img/inferior.JPG)      ![screenshot](https://github.com/AxelUrizar/Consola-CSS/blob/main/Consola-CSS/img/inferiorpartida.jpg)
