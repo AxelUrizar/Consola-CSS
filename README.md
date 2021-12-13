@@ -4,7 +4,7 @@
 
 En este proyecto se demandaba la creación de una videoconsola usando tanto HTML5 como CSS. Decidí tomar como referencia a la consola de Nintendo DSI Lite.
 
-![screenshot](https://github.com/AxelUrizar/Consola-CSS/blob/main/Consola-CSS/img/power.png)
+![screenshot](https://github.com/AxelUrizar/Consola-CSS/blob/main/Consola-CSS/img/dsi.jpg)      ![screenshot](https://github.com/AxelUrizar/Consola-CSS/blob/main/Consola-CSS/img/dsi%20lite%20entera.JPG)
 
 A la hora de enfocar este proyecto decidí partir la consola en tres partes, cada una a su vez dividida en otras tres franjas para poder trabajar con mayor libertad:
 
