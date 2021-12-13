@@ -385,11 +385,14 @@
             flex-direction: column;
             margin: 0 auto;
             height: 70%;
-            color: rgb(179, 179, 179);
             font-family:sans-serif;
             margin: 0 auto;            
 
         }
+
+            .botonera p{
+                color: rgb(179, 179, 179);
+            }
 
             .b-x{
                 background-color: rgb(68, 67, 67);
