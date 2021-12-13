@@ -2,6 +2,8 @@
 
 ------------
 
+[Acceder al proyecto](https://axelurizar.github.io/Consola-CSS/)
+
 En este proyecto se demandaba la creación de una videoconsola usando tanto HTML5 como CSS. Decidí tomar como referencia a la consola de Nintendo DSI Lite.
 
 ![screenshot](https://github.com/AxelUrizar/Consola-CSS/blob/main/img/dsi.jpg)      ![screenshot](https://github.com/AxelUrizar/Consola-CSS/blob/main/img/dsi%20entera.JPG)
